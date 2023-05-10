@@ -1,0 +1,784 @@
+{
+    "data": [
+        {
+            "symbol": "X1-SV11",
+            "sectorSymbol": "X1",
+            "type": "BLUE_STAR",
+            "x": 3048,
+            "y": 859,
+            "waypoints": [
+                {
+                    "symbol": "X1-SV11-43460A",
+                    "type": "PLANET",
+                    "x": 9,
+                    "y": 8
+                },
+                {
+                    "symbol": "X1-SV11-66431D",
+                    "type": "MOON",
+                    "x": 9,
+                    "y": 8
+                },
+                {
+                    "symbol": "X1-SV11-77662E",
+                    "type": "MOON",
+                    "x": 9,
+                    "y": 8
+                },
+                {
+                    "symbol": "X1-SV11-30673E",
+                    "type": "PLANET",
+                    "x": -12,
+                    "y": -13
+                },
+                {
+                    "symbol": "X1-SV11-01234X",
+                    "type": "PLANET",
+                    "x": -26,
+                    "y": 6
+                },
+                {
+                    "symbol": "X1-SV11-81085D",
+                    "type": "MOON",
+                    "x": -26,
+                    "y": 6
+                }
+            ],
+            "factions": []
+        },
+        {
+            "symbol": "X1-MX90",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 2753,
+            "y": 319,
+            "waypoints": [
+                {
+                    "symbol": "X1-MX90-15950C",
+                    "type": "PLANET",
+                    "x": 20,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-MX90-80641D",
+                    "type": "MOON",
+                    "x": 20,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-MX90-77882C",
+                    "type": "MOON",
+                    "x": 20,
+                    "y": -11
+                }
+            ],
+            "factions": []
+        },
+        {
+            "symbol": "X1-PQ88",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 2765,
+            "y": 370,
+            "waypoints": [
+                {
+                    "symbol": "X1-PQ88-46050Z",
+                    "type": "PLANET",
+                    "x": 3,
+                    "y": -27
+                },
+                {
+                    "symbol": "X1-PQ88-77251A",
+                    "type": "MOON",
+                    "x": 3,
+                    "y": -27
+                },
+                {
+                    "symbol": "X1-PQ88-73222A",
+                    "type": "PLANET",
+                    "x": -9,
+                    "y": -57
+                },
+                {
+                    "symbol": "X1-PQ88-18083B",
+                    "type": "MOON",
+                    "x": -9,
+                    "y": -57
+                },
+                {
+                    "symbol": "X1-PQ88-52754F",
+                    "type": "GAS_GIANT",
+                    "x": 66,
+                    "y": -41
+                }
+            ],
+            "factions": [
+                {
+                    "symbol": "ASTRO"
+                }
+            ]
+        },
+        {
+            "symbol": "X1-KG95",
+            "sectorSymbol": "X1",
+            "type": "RED_STAR",
+            "x": 4102,
+            "y": -1193,
+            "waypoints": [
+                {
+                    "symbol": "X1-KG95-65570E",
+                    "type": "PLANET",
+                    "x": -17,
+                    "y": -19
+                },
+                {
+                    "symbol": "X1-KG95-50381X",
+                    "type": "MOON",
+                    "x": -17,
+                    "y": -19
+                },
+                {
+                    "symbol": "X1-KG95-25062C",
+                    "type": "PLANET",
+                    "x": 55,
+                    "y": -4
+                },
+                {
+                    "symbol": "X1-KG95-94133C",
+                    "type": "MOON",
+                    "x": 55,
+                    "y": -4
+                },
+                {
+                    "symbol": "X1-KG95-57594A",
+                    "type": "PLANET",
+                    "x": 65,
+                    "y": -49
+                },
+                {
+                    "symbol": "X1-KG95-24635D",
+                    "type": "MOON",
+                    "x": 65,
+                    "y": -49
+                },
+                {
+                    "symbol": "X1-KG95-87556B",
+                    "type": "GAS_GIANT",
+                    "x": 70,
+                    "y": 75
+                }
+            ],
+            "factions": []
+        },
+        {
+            "symbol": "X1-PM26",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 4903,
+            "y": 833,
+            "waypoints": [
+                {
+                    "symbol": "X1-PM26-00740B",
+                    "type": "PLANET",
+                    "x": -8,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-PM26-73101C",
+                    "type": "MOON",
+                    "x": -8,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-PM26-85462B",
+                    "type": "MOON",
+                    "x": -8,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-PM26-47033X",
+                    "type": "PLANET",
+                    "x": 20,
+                    "y": 10
+                },
+                {
+                    "symbol": "X1-PM26-39964X",
+                    "type": "MOON",
+                    "x": 20,
+                    "y": 10
+                },
+                {
+                    "symbol": "X1-PM26-49685D",
+                    "type": "MOON",
+                    "x": 20,
+                    "y": 10
+                },
+                {
+                    "symbol": "X1-PM26-13176D",
+                    "type": "PLANET",
+                    "x": 24,
+                    "y": 29
+                },
+                {
+                    "symbol": "X1-PM26-44597F",
+                    "type": "MOON",
+                    "x": 24,
+                    "y": 29
+                },
+                {
+                    "symbol": "X1-PM26-39808B",
+                    "type": "GAS_GIANT",
+                    "x": -17,
+                    "y": 62
+                }
+            ],
+            "factions": []
+        },
+        {
+            "symbol": "X1-AH74",
+            "sectorSymbol": "X1",
+            "type": "NEUTRON_STAR",
+            "x": 2789,
+            "y": -422,
+            "waypoints": [],
+            "factions": []
+        },
+        {
+            "symbol": "X1-SA3",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 5185,
+            "y": 231,
+            "waypoints": [
+                {
+                    "symbol": "X1-SA3-19770C",
+                    "type": "PLANET",
+                    "x": 9,
+                    "y": -26
+                },
+                {
+                    "symbol": "X1-SA3-41211B",
+                    "type": "MOON",
+                    "x": 9,
+                    "y": -26
+                },
+                {
+                    "symbol": "X1-SA3-01742C",
+                    "type": "PLANET",
+                    "x": 35,
+                    "y": 15
+                },
+                {
+                    "symbol": "X1-SA3-68373F",
+                    "type": "MOON",
+                    "x": 35,
+                    "y": 15
+                },
+                {
+                    "symbol": "X1-SA3-31654Z",
+                    "type": "MOON",
+                    "x": 35,
+                    "y": 15
+                },
+                {
+                    "symbol": "X1-SA3-75335E",
+                    "type": "GAS_GIANT",
+                    "x": -41,
+                    "y": 28
+                }
+            ],
+            "factions": []
+        },
+        {
+            "symbol": "X1-YP78",
+            "sectorSymbol": "X1",
+            "type": "RED_STAR",
+            "x": 4603,
+            "y": 1122,
+            "waypoints": [
+                {
+                    "symbol": "X1-YP78-14620B",
+                    "type": "PLANET",
+                    "x": -6,
+                    "y": -7
+                },
+                {
+                    "symbol": "X1-YP78-72401A",
+                    "type": "PLANET",
+                    "x": 15,
+                    "y": 0
+                },
+                {
+                    "symbol": "X1-YP78-54212F",
+                    "type": "PLANET",
+                    "x": -18,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-YP78-97993Z",
+                    "type": "GAS_GIANT",
+                    "x": 29,
+                    "y": 38
+                }
+            ],
+            "factions": [
+                {
+                    "symbol": "ASTRO"
+                }
+            ]
+        },
+        {
+            "symbol": "X1-BB43",
+            "sectorSymbol": "X1",
+            "type": "RED_STAR",
+            "x": 5129,
+            "y": 506,
+            "waypoints": [
+                {
+                    "symbol": "X1-BB43-56380Z",
+                    "type": "PLANET",
+                    "x": 7,
+                    "y": 2
+                },
+                {
+                    "symbol": "X1-BB43-29151X",
+                    "type": "MOON",
+                    "x": 7,
+                    "y": 2
+                },
+                {
+                    "symbol": "X1-BB43-28822Z",
+                    "type": "MOON",
+                    "x": 7,
+                    "y": 2
+                },
+                {
+                    "symbol": "X1-BB43-79773E",
+                    "type": "MOON",
+                    "x": 7,
+                    "y": 2
+                },
+                {
+                    "symbol": "X1-BB43-21984D",
+                    "type": "PLANET",
+                    "x": -18,
+                    "y": -8
+                },
+                {
+                    "symbol": "X1-BB43-93225A",
+                    "type": "GAS_GIANT",
+                    "x": 45,
+                    "y": 12
+                }
+            ],
+            "factions": []
+        },
+        {
+            "symbol": "X1-JC30",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 2684,
+            "y": 155,
+            "waypoints": [
+                {
+                    "symbol": "X1-JC30-46740B",
+                    "type": "PLANET",
+                    "x": -19,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-JC30-92111F",
+                    "type": "MOON",
+                    "x": -19,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-JC30-85652B",
+                    "type": "MOON",
+                    "x": -19,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-JC30-44523B",
+                    "type": "MOON",
+                    "x": -19,
+                    "y": -11
+                },
+                {
+                    "symbol": "X1-JC30-40534C",
+                    "type": "JUMP_GATE",
+                    "x": 20,
+                    "y": 30
+                }
+            ],
+            "factions": [
+                {
+                    "symbol": "ASTRO"
+                }
+            ]
+        },
+        {
+            "symbol": "X1-FY14",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 3996,
+            "y": -1239,
+            "waypoints": [
+                {
+                    "symbol": "X1-FY14-07260F",
+                    "type": "PLANET",
+                    "x": -10,
+                    "y": 6
+                },
+                {
+                    "symbol": "X1-FY14-00441X",
+                    "type": "MOON",
+                    "x": -10,
+                    "y": 6
+                },
+                {
+                    "symbol": "X1-FY14-63012Z",
+                    "type": "PLANET",
+                    "x": 28,
+                    "y": -26
+                },
+                {
+                    "symbol": "X1-FY14-24933E",
+                    "type": "MOON",
+                    "x": 28,
+                    "y": -26
+                },
+                {
+                    "symbol": "X1-FY14-28584F",
+                    "type": "PLANET",
+                    "x": -43,
+                    "y": 29
+                },
+                {
+                    "symbol": "X1-FY14-79195E",
+                    "type": "MOON",
+                    "x": -43,
+                    "y": 29
+                },
+                {
+                    "symbol": "X1-FY14-24976F",
+                    "type": "MOON",
+                    "x": -43,
+                    "y": 29
+                },
+                {
+                    "symbol": "X1-FY14-71627A",
+                    "type": "GAS_GIANT",
+                    "x": -20,
+                    "y": 57
+                },
+                {
+                    "symbol": "X1-FY14-64308A",
+                    "type": "ASTEROID_FIELD",
+                    "x": 39,
+                    "y": 56
+                }
+            ],
+            "factions": [
+                {
+                    "symbol": "ASTRO"
+                }
+            ]
+        },
+        {
+            "symbol": "X1-FY16",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 2936,
+            "y": -742,
+            "waypoints": [],
+            "factions": []
+        },
+        {
+            "symbol": "X1-GM34",
+            "sectorSymbol": "X1",
+            "type": "BLUE_STAR",
+            "x": 2739,
+            "y": -398,
+            "waypoints": [
+                {
+                    "symbol": "X1-GM34-48270C",
+                    "type": "PLANET",
+                    "x": 23,
+                    "y": -8
+                },
+                {
+                    "symbol": "X1-GM34-12131X",
+                    "type": "MOON",
+                    "x": 23,
+                    "y": -8
+                },
+                {
+                    "symbol": "X1-GM34-44852E",
+                    "type": "PLANET",
+                    "x": -9,
+                    "y": -32
+                },
+                {
+                    "symbol": "X1-GM34-40043C",
+                    "type": "MOON",
+                    "x": -9,
+                    "y": -32
+                },
+                {
+                    "symbol": "X1-GM34-10494C",
+                    "type": "PLANET",
+                    "x": -40,
+                    "y": -34
+                },
+                {
+                    "symbol": "X1-GM34-85805F",
+                    "type": "MOON",
+                    "x": -40,
+                    "y": -34
+                },
+                {
+                    "symbol": "X1-GM34-54126D",
+                    "type": "MOON",
+                    "x": -40,
+                    "y": -34
+                },
+                {
+                    "symbol": "X1-GM34-14667C",
+                    "type": "GAS_GIANT",
+                    "x": -70,
+                    "y": 34
+                },
+                {
+                    "symbol": "X1-GM34-79608X",
+                    "type": "ASTEROID_FIELD",
+                    "x": 52,
+                    "y": 72
+                }
+            ],
+            "factions": [
+                {
+                    "symbol": "ASTRO"
+                }
+            ]
+        },
+        {
+            "symbol": "X1-UN76",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 2715,
+            "y": 395,
+            "waypoints": [
+                {
+                    "symbol": "X1-UN76-67520A",
+                    "type": "GAS_GIANT",
+                    "x": -13,
+                    "y": -10
+                },
+                {
+                    "symbol": "X1-UN76-32771C",
+                    "type": "GAS_GIANT",
+                    "x": -22,
+                    "y": 5
+                }
+            ],
+            "factions": []
+        },
+        {
+            "symbol": "X1-ZR88",
+            "sectorSymbol": "X1",
+            "type": "BLUE_STAR",
+            "x": 2674,
+            "y": 214,
+            "waypoints": [
+                {
+                    "symbol": "X1-ZR88-88040B",
+                    "type": "PLANET",
+                    "x": 27,
+                    "y": -2
+                },
+                {
+                    "symbol": "X1-ZR88-73791Z",
+                    "type": "PLANET",
+                    "x": 38,
+                    "y": 35
+                },
+                {
+                    "symbol": "X1-ZR88-89202C",
+                    "type": "MOON",
+                    "x": 38,
+                    "y": 35
+                },
+                {
+                    "symbol": "X1-ZR88-09373A",
+                    "type": "GAS_GIANT",
+                    "x": -4,
+                    "y": 71
+                }
+            ],
+            "factions": [
+                {
+                    "symbol": "ASTRO"
+                }
+            ]
+        },
+        {
+            "symbol": "X1-HS88",
+            "sectorSymbol": "X1",
+            "type": "BLUE_STAR",
+            "x": 2934,
+            "y": -760,
+            "waypoints": [
+                {
+                    "symbol": "X1-HS88-90930C",
+                    "type": "PLANET",
+                    "x": -15,
+                    "y": 4
+                },
+                {
+                    "symbol": "X1-HS88-26921X",
+                    "type": "MOON",
+                    "x": -15,
+                    "y": 4
+                },
+                {
+                    "symbol": "X1-HS88-12322X",
+                    "type": "MOON",
+                    "x": -15,
+                    "y": 4
+                },
+                {
+                    "symbol": "X1-HS88-46903B",
+                    "type": "GAS_GIANT",
+                    "x": -8,
+                    "y": 40
+                },
+                {
+                    "symbol": "X1-HS88-80464B",
+                    "type": "GAS_GIANT",
+                    "x": -34,
+                    "y": -57
+                }
+            ],
+            "factions": []
+        },
+        {
+            "symbol": "X1-VP85",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 2662,
+            "y": -47,
+            "waypoints": [
+                {
+                    "symbol": "X1-VP85-64260C",
+                    "type": "PLANET",
+                    "x": 9,
+                    "y": 11
+                },
+                {
+                    "symbol": "X1-VP85-10071B",
+                    "type": "MOON",
+                    "x": 9,
+                    "y": 11
+                },
+                {
+                    "symbol": "X1-VP85-28472F",
+                    "type": "ASTEROID_FIELD",
+                    "x": 7,
+                    "y": 26
+                }
+            ],
+            "factions": [
+                {
+                    "symbol": "ASTRO"
+                }
+            ]
+        },
+        {
+            "symbol": "X1-DK79",
+            "sectorSymbol": "X1",
+            "type": "BLUE_STAR",
+            "x": 4988,
+            "y": 802,
+            "waypoints": [
+                {
+                    "symbol": "X1-DK79-38770A",
+                    "type": "PLANET",
+                    "x": -14,
+                    "y": 8
+                },
+                {
+                    "symbol": "X1-DK79-21861D",
+                    "type": "MOON",
+                    "x": -14,
+                    "y": 8
+                },
+                {
+                    "symbol": "X1-DK79-41572F",
+                    "type": "MOON",
+                    "x": -14,
+                    "y": 8
+                },
+                {
+                    "symbol": "X1-DK79-91653E",
+                    "type": "GAS_GIANT",
+                    "x": -15,
+                    "y": -31
+                }
+            ],
+            "factions": []
+        },
+        {
+            "symbol": "X1-QU37",
+            "sectorSymbol": "X1",
+            "type": "NEUTRON_STAR",
+            "x": 2676,
+            "y": -227,
+            "waypoints": [],
+            "factions": []
+        },
+        {
+            "symbol": "X1-SD19",
+            "sectorSymbol": "X1",
+            "type": "ORANGE_STAR",
+            "x": 3663,
+            "y": 1307,
+            "waypoints": [
+                {
+                    "symbol": "X1-SD19-25180B",
+                    "type": "PLANET",
+                    "x": -16,
+                    "y": 16
+                },
+                {
+                    "symbol": "X1-SD19-71391E",
+                    "type": "MOON",
+                    "x": -16,
+                    "y": 16
+                },
+                {
+                    "symbol": "X1-SD19-04602A",
+                    "type": "PLANET",
+                    "x": 24,
+                    "y": 28
+                },
+                {
+                    "symbol": "X1-SD19-31243F",
+                    "type": "MOON",
+                    "x": 24,
+                    "y": 28
+                }
+            ],
+            "factions": [
+                {
+                    "symbol": "ASTRO"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "total": 5000,
+        "page": 152,
+        "limit": 20
+    }
+}

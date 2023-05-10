@@ -2,10 +2,9 @@ import requests
 import json
 import time
 
-token = ""
+import TOKEN
 
-with open('TOKEN') as t:
-    token = t.readline()
+token = TOKEN.token
 
 #load the map
 mapJson = ""

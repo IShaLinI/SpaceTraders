@@ -1,6 +1,7 @@
 import pygame
 import math
 import json
+import sys
 
 mapData = {}
 
@@ -75,6 +76,19 @@ def windowPosToTile(x, y, xOffset, yOffset):
 userXOffset = 0
 userYOffset = 0
 
+#Check if coordinates were passed
+if(len(sys.argv) == 3):
+    userXOffset = -int(sys.argv[1])
+    userYOffset = int(sys.argv[2])
+
+if(len(sys.argv) == 2):
+    #Find the system in the map
+    for i in range(0, len(mapData)):
+        if sys.argv[1] in mapData[i]['symbol']:
+            userXOffset = -int(mapData[i]['x'])
+            userYOffset = int(mapData[i]['y'])
+            break
+
 # Set up the game loop
 running = True
 while running:
@@ -93,10 +107,10 @@ while running:
             running = False
         if event.type == pygame.MOUSEWHEEL:
             direction = event.y
-            if direction == 1:
+            if direction == -1:
                 if gridSize > 1:
                     gridSize -= 1
-            elif direction == -1:
+            elif direction == 1:
                 gridSize += 1
         
         #Add mouse drag distance to the offset

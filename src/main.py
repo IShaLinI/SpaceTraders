@@ -3,7 +3,6 @@ import json
 import time
 
 import TOKEN
-
 token = TOKEN.token
 
 #load the map
@@ -50,6 +49,3 @@ def findObject(symbol):
                 if mapJson[i]['waypoints'][j]['symbol'] == (sector + "-" + system + "-" + object):
                     print("Found object " + object + " at object index:" + str(j))
                     return mapJson[i]['waypoints'][j]
-
-
-print(findObject("X1-UM68-34964A"))

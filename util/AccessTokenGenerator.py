@@ -11,4 +11,6 @@ data = {
 
 response = requests.post(url, headers=headers, json=data)
 
-print(response.text)
+#Write response to response.json
+with open('response.json', 'w') as outfile:
+    outfile.write(response.text)

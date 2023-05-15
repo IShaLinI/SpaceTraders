@@ -84,7 +84,7 @@ if(len(sys.argv) == 3):
 if(len(sys.argv) == 2):
     #Find the system in the map
     for i in range(0, len(mapData)):
-        if sys.argv[1] in mapData[i]['symbol']:
+        if sys.argv[1] == mapData[i]['symbol']:
             userXOffset = -int(mapData[i]['x'])
             userYOffset = int(mapData[i]['y'])
             break

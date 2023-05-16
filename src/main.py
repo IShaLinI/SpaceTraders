@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-import TOKEN
+import data.TOKEN as TOKEN
 token = TOKEN.token
 
 #load the map
